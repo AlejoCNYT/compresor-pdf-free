@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Evitar subir documentos personales o carpetas de salida por error
+*.pdf
+comprimidos_free/
+listos_*/
